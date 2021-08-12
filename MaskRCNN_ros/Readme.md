@@ -7,6 +7,9 @@ The part of MaskRCNN code is adapted from matterport(https://github.com/matterpo
 ## Pre-requisites
 - Ensure the mask_rcnn_coco.h5 is downloaded in ROS home path
 
+## ROS topic lost
+- Input image subscribed from **/camera/usb_cam_1/image_raw**
+- Mask image published as **/mask_rcnn/mask**
 ## RUN the code
   ```
   python mask_rcnn_node.py
