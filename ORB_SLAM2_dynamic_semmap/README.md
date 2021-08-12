@@ -1,6 +1,7 @@
 # ORB-SLAM2 with dynamic object removal and Semantic segmentation
 
-Repository contains code implemented as part of final Master thesis
+Repository contains code implemented as part of final Master thesis.
+
 The code of monocular camera as a ROS pipeline is modified to handle dynamic objects and build semantic map.
 
 
