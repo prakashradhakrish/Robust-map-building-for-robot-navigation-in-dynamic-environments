@@ -41,7 +41,8 @@ chmod +x build.sh
 Todo: Dynamic count topic need to be removed
 
 ## Output
-
+Click on the image to play the video
+[![ORB_SLAM2 fused with deep learning models](https://img.youtube.com/vi/XMLr5PRF1vA/0.jpg)](https://www.youtube.com/watch?v=XMLr5PRF1vA&ab_channel=PrakashR)
 
 ## Acknowledgement
 
