@@ -20,7 +20,7 @@ python main.py
 ```
 Todo: Get the configuration, weight and directory of image folder as arguments
 ## Output
-[<img src="https://youtu.be/gdiFcuJy_7s/maxresdefault.jpg" width="50%">](https://youtu.be/gdiFcuJy_7s)
+[![Moving object segmentation post processed with SOLOV2 output](https://img.youtube.com/vi/gdiFcuJy_7s/0.jpg)](https://www.youtube.com/watch?v=gdiFcuJy_7s&ab_channel=PrakashR)
 
 ## Acknowledgement
 
