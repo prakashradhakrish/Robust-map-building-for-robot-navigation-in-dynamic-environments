@@ -20,6 +20,7 @@ python main.py
 ```
 Todo: Get the configuration, weight and directory of image folder as arguments
 ## Output
+Click on the image to play the video
 [![Moving object segmentation post processed with SOLOV2 output](https://img.youtube.com/vi/gdiFcuJy_7s/0.jpg)](https://www.youtube.com/watch?v=gdiFcuJy_7s&ab_channel=PrakashR)
 
 ## Acknowledgement
