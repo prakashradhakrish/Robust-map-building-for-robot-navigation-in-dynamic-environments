@@ -20,7 +20,7 @@ python main.py
 ```
 Todo: Get the configuration, weight and directory of image folder as arguments
 ## Output
-
+[<img src="https://youtu.be/gdiFcuJy_7s/maxresdefault.jpg" width="50%">](https://youtu.be/gdiFcuJy_7s)
 
 ## Acknowledgement
 
