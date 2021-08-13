@@ -16,7 +16,7 @@ The part of MaskRCNN code is adapted from matterport(https://github.com/matterpo
   ```
 
 ## Output
-
+![alt text](https://github.com/prakashradhakrish/Robust-map-building-for-robot-navigation-in-dynamic-environments/blob/main/MaskRCNN_ros/result/solovsmaskrcnn.png)
 
 ## Acknowledgement
 
