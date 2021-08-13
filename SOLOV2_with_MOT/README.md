@@ -26,7 +26,7 @@ SOLOV2 code is adapted from AdelaiDet written on detectron2 as PyTorch framework
   python demo/solov2node_ros.py --config-file configs/SOLOv2/R50_3x.yaml --confidence-threshold=0.3 --opts MODEL.WEIGHTS SOLOv2_R50_3x.pth
   ```
 ## Output
-
+![SOLOv2 results](https://github.com/prakashradhakrish/Robust-map-building-for-robot-navigation-in-dynamic-environments/blob/main/SOLOV2_with_MOT/result/tracking.gif)
 
 ## Acknowledgement
 
