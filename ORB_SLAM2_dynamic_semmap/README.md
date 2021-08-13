@@ -34,7 +34,7 @@ chmod +x build.sh
   chmod +x build_ros.sh
   ./build_ros.sh
   ```
-2. For Running Monocular Node, we need a monocular input from topic `/camera/usb_cam_1/image_raw, a segmentation mask topic '/mask_image', a tracking instance image topic '/track_image' and a dynamic count '/dynamic_count'.
+2. For Running Monocular Node, we need a monocular input from topic `/camera/usb_cam_1/image_raw, a segmentation mask topic '/mask_image', a tracking instance image topic '/track_image' and a dynamic count '/dynamic_count'. Replace xx with recommeded configuration
   ```
   rosrun ORB_SLAM2 Mono Vocabulary/ORBvoc.txt Examples/Monocular/xx.yaml True
   ```
